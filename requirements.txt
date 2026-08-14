@@ -1,0 +1,4 @@
+tabpfn-client
+pandas
+scikit-learn
+matplotlib
